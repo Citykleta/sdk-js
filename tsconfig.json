@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "module": "es2015",
+    "moduleResolution": "classic",
+    "preserveConstEnums": true,
+    "declaration": true,
+    "declarationDir": "./dist/declarations",
+    "target": "es2017"
+  },
+  "include": [
+    "./dist/src/*"
+  ]
+}
